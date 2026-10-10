@@ -43,4 +43,17 @@ langue de la personne qui lui parle (C10).
 
 ## Dernières modifications
 
-_Aucune carte ni décision dans les registres des projets pour l'instant._
+| Date | Projet | Carte | Type | Changement | Par |
+|---|---|---|---|---|---|
+| 2026-10-10 | optique-ondulatoire | [Calcul de l'interfrange des fentes d'Young](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/code/interfrange.md) | code | modifiée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [0005 — Suivre le socle v2 révisé](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/decisions/0005-socle-v2-revise.md) | décision | ajoutée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [Calcul de l'interfrange des fentes d'Young](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/code/interfrange.md) | code | modifiée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [0001 — Adopter le socle commun Memnius v1](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/decisions/0001-adopter-le-socle.md) | décision | renommée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [0002 — Calculs en Python sans dépendance](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/decisions/0002-calculs-sans-dependance.md) | décision | renommée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [0003 — Passer au socle v2 et tenir le registre du projet](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/decisions/0003-passer-au-socle-v2.md) | décision | renommée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [0004 — Ranger le journal des décisions dans le registre](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/decisions/0004-decisions-dans-le-registre.md) | décision | ajoutée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [Hecht, Optics (5e édition)](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/sources/hecht-optics.md) | source | modifiée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [Cours d'optique ondulatoire (Wikiversité)](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/sources/wikiversite-optique.md) | source | modifiée | Romain Caldani |
+| 2026-10-10 | optique-ondulatoire | [Calcul de l'interfrange des fentes d'Young](https://github.com/Memnius-PEE/optique-ondulatoire/blob/main/registre/code/interfrange.md) | code | ajoutée | Romain Caldani |
+
+_Les 10 dernières cartes et décisions ajoutées ou modifiées dans les registres des projets publics, d'après leur historique Git. Toutes les cartes : [`CARTES.md`](https://github.com/Memnius-PEE/registre/blob/super-registre/CARTES.md)._
